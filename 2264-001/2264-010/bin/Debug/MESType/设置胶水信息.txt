@@ -1,0 +1,7 @@
+﻿{
+	"cmd": 16,
+	"Hwd": "令牌",
+	"Indicator": "ADD_RECORD",
+	"SerializeData": "
+{\"LineCode\":\"线体\",\"SectionCode\":\"工站\",\"StationCode\":工位,\"OPCategory\":\"SET_GBL_SET\",\"OPRequestInfo\":{\"ID\":\"胶水码ID\",\"VALUE\":\"新胶水码\"},\"OPResponseInfo\":{}}"
+}

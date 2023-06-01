@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfCommunicationobj xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Communicationobj>
+    <ControlName>PLC</ControlName>
+    <Type>PLC</Type>
+    <IP>192.168.250.80</IP>
+    <Port>9600</Port>
+    <PLCType>欧姆龙</PLCType>
+  </Communicationobj>
+  <Communicationobj>
+    <ControlName>扫码枪</ControlName>
+    <Type>网口</Type>
+    <IP>192.168.100.100</IP>
+    <Port>23</Port>
+    <SocketType>Client</SocketType>
+  </Communicationobj>
+  <Communicationobj>
+    <ControlName>Dlen1</ControlName>
+    <Type>网口</Type>
+    <IP>192.168.0.10</IP>
+    <Port>640</Port>
+    <SocketType>Client</SocketType>
+  </Communicationobj>
+  <Communicationobj>
+    <ControlName>Dlen2</ControlName>
+    <Type>网口</Type>
+    <IP>192.168.0.20</IP>
+    <Port>640</Port>
+    <SocketType>Client</SocketType>
+  </Communicationobj>
+  <Communicationobj>
+    <ControlName>Dlen3</ControlName>
+    <Type>网口</Type>
+    <IP>192.168.0.30</IP>
+    <Port>640</Port>
+    <SocketType>Client</SocketType>
+  </Communicationobj>
+  <Communicationobj>
+    <ControlName>Dlen4</ControlName>
+    <Type>网口</Type>
+    <IP>192.168.0.40</IP>
+    <Port>640</Port>
+    <SocketType>Client</SocketType>
+  </Communicationobj>
+</ArrayOfCommunicationobj>

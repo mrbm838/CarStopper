@@ -1,0 +1,15 @@
+﻿{
+	"cmd": 16,
+	"Hwd": "令牌",
+	"Indicator": "QUERY_RECORD",
+	"SerializeData": "
+{\"LineCode\":\"线体\",\"SectionCode\":\"工站\",\"StationCode\":工位,\"OPCategory\":\"UNIT_PROCESS_CHECK\",\"OPRequestInfo\":{\"SN\":\"产品条码L\"},\"OPResponseInfo\":{}}"
+}
+
+{
+	"cmd": 16,
+	"Hwd": "令牌",
+	"Indicator": "QUERY_RECORD",
+	"SerializeData": "
+{\"LineCode\":\"线体\",\"SectionCode\":\"工站\",\"StationCode\":工位,\"OPCategory\":\"UNIT_PROCESS_CHECK\",\"OPRequestInfo\":{\"SN\":\"产品条码R\"},\"OPResponseInfo\":{}}"
+}

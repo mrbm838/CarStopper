@@ -1,0 +1,13 @@
+﻿{
+	"cmd": 16,
+	"Hwd": "令牌",
+	"Indicator": "ADD_ATTR",
+	"SerializeData": "{\"LineCode\":\"线体\",\"SectionCode\":\"工站\",\"StationCode\":工位,\"OPCategory\":\"UPLOAD_INFOS\",\"OPRequestInfo\":{\"SN\":\"产品条码L\",\"Cavity_No\":\"通道\",\"Glue_Tube_Temp\":\"后龙门胶管温度\",\"Glue_Nozzle_Temp\":\"后龙门温度\",\"ERROR_CODE\":\"MES错误代码\"},\"OPResponseInfo\":{}}"
+}
+
+{
+	"cmd": 16,
+	"Hwd": "令牌",
+	"Indicator": "ADD_ATTR",
+	"SerializeData": "{\"LineCode\":\"线体\",\"SectionCode\":\"工站\",\"StationCode\":工位,\"OPCategory\":\"UPLOAD_INFOS\",\"OPRequestInfo\":{\"SN\":\"产品条码R\",\"Glue_Nozzle_Temp\":\"后龙门温度\",\"Cavity_No\":\"通道\",\"Glue_Tube_Temp\":\"后龙门胶管温度\",\"ERROR_CODE\":\"MES错误代码\"},\"OPResponseInfo\":{}}"
+}

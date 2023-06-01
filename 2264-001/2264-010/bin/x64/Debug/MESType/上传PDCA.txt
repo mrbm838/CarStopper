@@ -1,0 +1,10 @@
+﻿{
+产品条码@start
+产品条码@start_time@开始时间
+产品条码@stop_time@结束时间
+产品条码@log_file@压缩图片路径@电脑账户@电脑密码
+产品条码@pdata@Glue_Nozzle_Temp@后龙门温度@后龙门最小温度@后龙门最大温度
+产品条码@pdata@Glue_Tube_Temp@后龙门胶管温度@后龙门胶管最小温度@后龙门胶管最大温度
+产品条码@dut_pos@工装码@通道
+产品条码@pdata@MES错误代码@0@1@3
+}

@@ -1,0 +1,7 @@
+﻿{
+                "cmd": 16,
+	"Hwd": "令牌",
+	"Indicator": "QUERY_RECORD",
+	"SerializeData": 
+"{\"LineCode\":\"线体\",\"SectionCode\":\"工站\",\"StationCode\":工位,\"OPCategory\":\"GET_SNLIST_BY_FIXTURESN\",\"OPRequestInfo\":{\"REF_VALUE\":\"工装码\",\"REF_TYPE\":\"SN_FIXTURE\"},\"OPResponseInfo\":{}}"
+}

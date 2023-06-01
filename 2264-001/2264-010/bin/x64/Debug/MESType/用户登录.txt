@@ -1,0 +1,6 @@
+{
+	"cmd": 2,	
+	"Hwd": "",
+	"Indicator": null,
+	"SerializeData": "{\"user\":\"作业员用户名\",\"pwd\":\"作业员密码\"}"
+}

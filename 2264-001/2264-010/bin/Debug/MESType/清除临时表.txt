@@ -1,0 +1,13 @@
+﻿{
+	"cmd": 16,
+	"Hwd": "令牌",
+	"Indicator": "Add_Attr",
+	"SerializeData": "{\"LineCode\":\"线体\",\"SectionCode\":\"工站\",\"StationCode\":工位,\"OPCategory\":\"CLEAR_SN_INPUT_TMPDATA\",\"OPRequestInfo\":{\"SN\":\"产品条码L\",\"CLEAR_GROUP\":\"工站\"},\"OPResponseInfo\":{}}"
+}
+
+{
+	"cmd": 16,
+	"Hwd": "令牌",
+	"Indicator": "Add_Attr",
+	"SerializeData": "{\"LineCode\":\"线体\",\"SectionCode\":\"工站\",\"StationCode\":工位,\"OPCategory\":\"CLEAR_SN_INPUT_TMPDATA\",\"OPRequestInfo\":{\"SN\":\"产品条码R\",\"CLEAR_GROUP\":\"工站\"},\"OPResponseInfo\":{}}"
+}

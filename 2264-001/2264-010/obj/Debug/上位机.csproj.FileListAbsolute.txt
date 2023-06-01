@@ -1,0 +1,468 @@
+F:\上位机框架程序\上位机框架程序\2181-067\obj\Debug\上位机.csproj.AssemblyReference.cache
+F:\上位机框架程序\上位机框架程序\2181-067\obj\Debug\上位机.csproj.SuggestedBindingRedirects.cache
+F:\上位机框架程序\上位机框架程序\2181-067\obj\Debug\_2181_067.FrmError.resources
+F:\上位机框架程序\上位机框架程序\2181-067\obj\Debug\_2181_067.FrmMain.resources
+F:\上位机框架程序\上位机框架程序\2181-067\obj\Debug\_2181_067.FrmLogin.resources
+F:\上位机框架程序\上位机框架程序\2181-067\obj\Debug\_2181_067.FrmRewrite.resources
+F:\上位机框架程序\上位机框架程序\2181-067\obj\Debug\_2181_067.Forms.FrmSelectCom.resources
+F:\上位机框架程序\上位机框架程序\2181-067\obj\Debug\_2181_067.FrmShow.resources
+F:\上位机框架程序\上位机框架程序\2181-067\obj\Debug\_2181_067.FrmParam.resources
+F:\上位机框架程序\上位机框架程序\2181-067\obj\Debug\_2181_067.FrmSetCommunicate.resources
+F:\上位机框架程序\上位机框架程序\2181-067\obj\Debug\_2181_067.Forms.FrmTest.resources
+F:\上位机框架程序\上位机框架程序\2181-067\obj\Debug\_2181_067.FrmMes.resources
+F:\上位机框架程序\上位机框架程序\2181-067\obj\Debug\_2181_067.FrmProcessBar.resources
+F:\上位机框架程序\上位机框架程序\2181-067\obj\Debug\_2181_067.Properties.Resources.resources
+F:\上位机框架程序\上位机框架程序\2181-067\obj\Debug\上位机.csproj.GenerateResource.cache
+F:\上位机框架程序\上位机框架程序\2181-067\obj\Debug\上位机.csproj.CoreCompileInputs.cache
+F:\上位机框架程序\上位机框架程序\2181-067\obj\Debug\IPC_Frame.exe
+F:\上位机框架程序\上位机框架程序\2181-067\obj\Debug\IPC_Frame.pdb
+F:\上位机框架程序\上位机框架程序\2181-067\bin\Debug\IPC_Frame.exe.config
+F:\上位机框架程序\上位机框架程序\2181-067\bin\Debug\IPC_Frame.exe
+F:\上位机框架程序\上位机框架程序\2181-067\bin\Debug\IPC_Frame.pdb
+F:\上位机框架程序\上位机框架程序\2181-067\bin\Debug\BouncyCastle.Crypto.dll
+F:\上位机框架程序\上位机框架程序\2181-067\bin\Debug\DAL.dll
+F:\上位机框架程序\上位机框架程序\2181-067\bin\Debug\DataModel.dll
+F:\上位机框架程序\上位机框架程序\2181-067\bin\Debug\Google.Protobuf.dll
+F:\上位机框架程序\上位机框架程序\2181-067\bin\Debug\K4os.Compression.LZ4.dll
+F:\上位机框架程序\上位机框架程序\2181-067\bin\Debug\K4os.Compression.LZ4.Streams.dll
+F:\上位机框架程序\上位机框架程序\2181-067\bin\Debug\K4os.Hash.xxHash.dll
+F:\上位机框架程序\上位机框架程序\2181-067\bin\Debug\MySql.Data.dll
+F:\上位机框架程序\上位机框架程序\2181-067\bin\Debug\Newtonsoft.Json.dll
+F:\上位机框架程序\上位机框架程序\2181-067\bin\Debug\Newtonsoft.Json.Schema.dll
+F:\上位机框架程序\上位机框架程序\2181-067\bin\Debug\SunnyUI.Common.dll
+F:\上位机框架程序\上位机框架程序\2181-067\bin\Debug\SunnyUI.dll
+F:\上位机框架程序\上位机框架程序\2181-067\bin\Debug\System.Buffers.dll
+F:\上位机框架程序\上位机框架程序\2181-067\bin\Debug\System.Memory.dll
+F:\上位机框架程序\上位机框架程序\2181-067\bin\Debug\System.Numerics.Vectors.dll
+F:\上位机框架程序\上位机框架程序\2181-067\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+F:\上位机框架程序\上位机框架程序\2181-067\bin\Debug\ZstdNet.dll
+F:\上位机框架程序\上位机框架程序\2181-067\bin\Debug\SqlSugar.dll
+F:\上位机框架程序\上位机框架程序\2181-067\bin\Debug\DAL.pdb
+F:\上位机框架程序\上位机框架程序\2181-067\bin\Debug\DAL.dll.config
+F:\上位机框架程序\上位机框架程序\2181-067\bin\Debug\DataModel.pdb
+F:\上位机框架程序\上位机框架程序\2181-067\bin\Debug\DataModel.dll.config
+F:\上位机框架程序\上位机框架程序\2181-067\bin\Debug\BouncyCastle.Crypto.xml
+F:\上位机框架程序\上位机框架程序\2181-067\bin\Debug\Google.Protobuf.pdb
+F:\上位机框架程序\上位机框架程序\2181-067\bin\Debug\Google.Protobuf.xml
+F:\上位机框架程序\上位机框架程序\2181-067\bin\Debug\K4os.Compression.LZ4.xml
+F:\上位机框架程序\上位机框架程序\2181-067\bin\Debug\K4os.Compression.LZ4.Streams.xml
+F:\上位机框架程序\上位机框架程序\2181-067\bin\Debug\K4os.Hash.xxHash.xml
+F:\上位机框架程序\上位机框架程序\2181-067\bin\Debug\MySql.Data.xml
+F:\上位机框架程序\上位机框架程序\2181-067\bin\Debug\Newtonsoft.Json.xml
+F:\上位机框架程序\上位机框架程序\2181-067\bin\Debug\Newtonsoft.Json.Schema.xml
+F:\上位机框架程序\上位机框架程序\2181-067\bin\Debug\System.Buffers.xml
+F:\上位机框架程序\上位机框架程序\2181-067\bin\Debug\System.Memory.xml
+F:\上位机框架程序\上位机框架程序\2181-067\bin\Debug\System.Numerics.Vectors.xml
+F:\上位机框架程序\上位机框架程序\2181-067\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+F:\上位机框架程序\上位机框架程序\2181-067\obj\Debug\上位机.csproj.CopyComplete
+F:\上位机框架程序\上位机框架程序\2181-067\obj\Debug\PLC通讯协议.FrmPLCTest.resources
+C:\Users\zx\Desktop\BYD\2181-068 曲率检测\上位机框架程序\2181-067\obj\Debug\上位机.csproj.AssemblyReference.cache
+C:\Users\zx\Desktop\BYD\2181-068 曲率检测\上位机框架程序\2181-067\obj\Debug\上位机.csproj.SuggestedBindingRedirects.cache
+C:\Users\zx\Desktop\BYD\2181-068 曲率检测\上位机框架程序\2181-067\obj\Debug\_2181_067.FrmError.resources
+C:\Users\zx\Desktop\BYD\2181-068 曲率检测\上位机框架程序\2181-067\obj\Debug\_2181_067.FrmMain.resources
+C:\Users\zx\Desktop\BYD\2181-068 曲率检测\上位机框架程序\2181-067\obj\Debug\_2181_067.FrmLogin.resources
+C:\Users\zx\Desktop\BYD\2181-068 曲率检测\上位机框架程序\2181-067\obj\Debug\_2181_067.FrmRewrite.resources
+C:\Users\zx\Desktop\BYD\2181-068 曲率检测\上位机框架程序\2181-067\obj\Debug\_2181_067.Forms.FrmSelectCom.resources
+C:\Users\zx\Desktop\BYD\2181-068 曲率检测\上位机框架程序\2181-067\obj\Debug\_2181_067.FrmParam.resources
+C:\Users\zx\Desktop\BYD\2181-068 曲率检测\上位机框架程序\2181-067\obj\Debug\_2181_067.FrmSetCommunicate.resources
+C:\Users\zx\Desktop\BYD\2181-068 曲率检测\上位机框架程序\2181-067\obj\Debug\_2181_067.Forms.FrmTest.resources
+C:\Users\zx\Desktop\BYD\2181-068 曲率检测\上位机框架程序\2181-067\obj\Debug\_2181_067.FrmMes.resources
+C:\Users\zx\Desktop\BYD\2181-068 曲率检测\上位机框架程序\2181-067\obj\Debug\_2181_067.FrmProcessBar.resources
+C:\Users\zx\Desktop\BYD\2181-068 曲率检测\上位机框架程序\2181-067\obj\Debug\PLC通讯协议.FrmPLCTest.resources
+C:\Users\zx\Desktop\BYD\2181-068 曲率检测\上位机框架程序\2181-067\obj\Debug\_2181_067.Properties.Resources.resources
+C:\Users\zx\Desktop\BYD\2181-068 曲率检测\上位机框架程序\2181-067\obj\Debug\上位机.csproj.GenerateResource.cache
+C:\Users\zx\Desktop\BYD\2181-068 曲率检测\上位机框架程序\2181-067\obj\Debug\上位机.csproj.CoreCompileInputs.cache
+C:\Users\zx\Desktop\BYD\2181-068 曲率检测\上位机框架程序\2181-067\obj\Debug\IPC_Frame.exe
+C:\Users\zx\Desktop\BYD\2181-068 曲率检测\上位机框架程序\2181-067\obj\Debug\IPC_Frame.pdb
+C:\Users\zx\Desktop\BYD\2181-068 曲率检测\上位机框架程序\2181-067\obj\Debug\_2181_068.FrmShow.resources
+C:\Users\zx\Desktop\BYD\2181-068 曲率检测\上位机框架程序\2181-067\bin\Debug\IPC_Frame.exe.config
+C:\Users\zx\Desktop\BYD\2181-068 曲率检测\上位机框架程序\2181-067\bin\Debug\IPC_Frame.exe
+C:\Users\zx\Desktop\BYD\2181-068 曲率检测\上位机框架程序\2181-067\bin\Debug\IPC_Frame.pdb
+C:\Users\zx\Desktop\BYD\2181-068 曲率检测\上位机框架程序\2181-067\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\zx\Desktop\BYD\2181-068 曲率检测\上位机框架程序\2181-067\bin\Debug\DAL.dll
+C:\Users\zx\Desktop\BYD\2181-068 曲率检测\上位机框架程序\2181-067\bin\Debug\DataModel.dll
+C:\Users\zx\Desktop\BYD\2181-068 曲率检测\上位机框架程序\2181-067\bin\Debug\Google.Protobuf.dll
+C:\Users\zx\Desktop\BYD\2181-068 曲率检测\上位机框架程序\2181-067\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\zx\Desktop\BYD\2181-068 曲率检测\上位机框架程序\2181-067\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\zx\Desktop\BYD\2181-068 曲率检测\上位机框架程序\2181-067\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\zx\Desktop\BYD\2181-068 曲率检测\上位机框架程序\2181-067\bin\Debug\MySql.Data.dll
+C:\Users\zx\Desktop\BYD\2181-068 曲率检测\上位机框架程序\2181-067\bin\Debug\Newtonsoft.Json.dll
+C:\Users\zx\Desktop\BYD\2181-068 曲率检测\上位机框架程序\2181-067\bin\Debug\Newtonsoft.Json.Schema.dll
+C:\Users\zx\Desktop\BYD\2181-068 曲率检测\上位机框架程序\2181-067\bin\Debug\SunnyUI.Common.dll
+C:\Users\zx\Desktop\BYD\2181-068 曲率检测\上位机框架程序\2181-067\bin\Debug\SunnyUI.dll
+C:\Users\zx\Desktop\BYD\2181-068 曲率检测\上位机框架程序\2181-067\bin\Debug\System.Buffers.dll
+C:\Users\zx\Desktop\BYD\2181-068 曲率检测\上位机框架程序\2181-067\bin\Debug\System.Memory.dll
+C:\Users\zx\Desktop\BYD\2181-068 曲率检测\上位机框架程序\2181-067\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\zx\Desktop\BYD\2181-068 曲率检测\上位机框架程序\2181-067\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\zx\Desktop\BYD\2181-068 曲率检测\上位机框架程序\2181-067\bin\Debug\ZstdNet.dll
+C:\Users\zx\Desktop\BYD\2181-068 曲率检测\上位机框架程序\2181-067\bin\Debug\SqlSugar.dll
+C:\Users\zx\Desktop\BYD\2181-068 曲率检测\上位机框架程序\2181-067\bin\Debug\DAL.pdb
+C:\Users\zx\Desktop\BYD\2181-068 曲率检测\上位机框架程序\2181-067\bin\Debug\DAL.dll.config
+C:\Users\zx\Desktop\BYD\2181-068 曲率检测\上位机框架程序\2181-067\bin\Debug\DataModel.pdb
+C:\Users\zx\Desktop\BYD\2181-068 曲率检测\上位机框架程序\2181-067\bin\Debug\DataModel.dll.config
+C:\Users\zx\Desktop\BYD\2181-068 曲率检测\上位机框架程序\2181-067\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\zx\Desktop\BYD\2181-068 曲率检测\上位机框架程序\2181-067\bin\Debug\Google.Protobuf.pdb
+C:\Users\zx\Desktop\BYD\2181-068 曲率检测\上位机框架程序\2181-067\bin\Debug\Google.Protobuf.xml
+C:\Users\zx\Desktop\BYD\2181-068 曲率检测\上位机框架程序\2181-067\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\zx\Desktop\BYD\2181-068 曲率检测\上位机框架程序\2181-067\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\zx\Desktop\BYD\2181-068 曲率检测\上位机框架程序\2181-067\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\zx\Desktop\BYD\2181-068 曲率检测\上位机框架程序\2181-067\bin\Debug\MySql.Data.xml
+C:\Users\zx\Desktop\BYD\2181-068 曲率检测\上位机框架程序\2181-067\bin\Debug\Newtonsoft.Json.xml
+C:\Users\zx\Desktop\BYD\2181-068 曲率检测\上位机框架程序\2181-067\bin\Debug\Newtonsoft.Json.Schema.xml
+C:\Users\zx\Desktop\BYD\2181-068 曲率检测\上位机框架程序\2181-067\bin\Debug\System.Buffers.xml
+C:\Users\zx\Desktop\BYD\2181-068 曲率检测\上位机框架程序\2181-067\bin\Debug\System.Memory.xml
+C:\Users\zx\Desktop\BYD\2181-068 曲率检测\上位机框架程序\2181-067\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\zx\Desktop\BYD\2181-068 曲率检测\上位机框架程序\2181-067\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\zx\Desktop\BYD\2181-068 曲率检测\上位机框架程序\2181-067\obj\Debug\上位机.csproj.CopyComplete
+C:\Users\zx\Desktop\BYD通用框架程序\2181-068 曲率检测\上位机框架程序\2181-067\bin\Debug\IPC_Frame.exe.config
+C:\Users\zx\Desktop\BYD通用框架程序\2181-068 曲率检测\上位机框架程序\2181-067\bin\Debug\IPC_Frame.exe
+C:\Users\zx\Desktop\BYD通用框架程序\2181-068 曲率检测\上位机框架程序\2181-067\bin\Debug\IPC_Frame.pdb
+C:\Users\zx\Desktop\BYD通用框架程序\2181-068 曲率检测\上位机框架程序\2181-067\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\zx\Desktop\BYD通用框架程序\2181-068 曲率检测\上位机框架程序\2181-067\bin\Debug\DAL.dll
+C:\Users\zx\Desktop\BYD通用框架程序\2181-068 曲率检测\上位机框架程序\2181-067\bin\Debug\DataModel.dll
+C:\Users\zx\Desktop\BYD通用框架程序\2181-068 曲率检测\上位机框架程序\2181-067\bin\Debug\Google.Protobuf.dll
+C:\Users\zx\Desktop\BYD通用框架程序\2181-068 曲率检测\上位机框架程序\2181-067\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\zx\Desktop\BYD通用框架程序\2181-068 曲率检测\上位机框架程序\2181-067\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\zx\Desktop\BYD通用框架程序\2181-068 曲率检测\上位机框架程序\2181-067\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\zx\Desktop\BYD通用框架程序\2181-068 曲率检测\上位机框架程序\2181-067\bin\Debug\MySql.Data.dll
+C:\Users\zx\Desktop\BYD通用框架程序\2181-068 曲率检测\上位机框架程序\2181-067\bin\Debug\Newtonsoft.Json.dll
+C:\Users\zx\Desktop\BYD通用框架程序\2181-068 曲率检测\上位机框架程序\2181-067\bin\Debug\Newtonsoft.Json.Schema.dll
+C:\Users\zx\Desktop\BYD通用框架程序\2181-068 曲率检测\上位机框架程序\2181-067\bin\Debug\SunnyUI.Common.dll
+C:\Users\zx\Desktop\BYD通用框架程序\2181-068 曲率检测\上位机框架程序\2181-067\bin\Debug\SunnyUI.dll
+C:\Users\zx\Desktop\BYD通用框架程序\2181-068 曲率检测\上位机框架程序\2181-067\bin\Debug\System.Buffers.dll
+C:\Users\zx\Desktop\BYD通用框架程序\2181-068 曲率检测\上位机框架程序\2181-067\bin\Debug\System.Memory.dll
+C:\Users\zx\Desktop\BYD通用框架程序\2181-068 曲率检测\上位机框架程序\2181-067\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\zx\Desktop\BYD通用框架程序\2181-068 曲率检测\上位机框架程序\2181-067\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\zx\Desktop\BYD通用框架程序\2181-068 曲率检测\上位机框架程序\2181-067\bin\Debug\ZstdNet.dll
+C:\Users\zx\Desktop\BYD通用框架程序\2181-068 曲率检测\上位机框架程序\2181-067\bin\Debug\SqlSugar.dll
+C:\Users\zx\Desktop\BYD通用框架程序\2181-068 曲率检测\上位机框架程序\2181-067\bin\Debug\DAL.pdb
+C:\Users\zx\Desktop\BYD通用框架程序\2181-068 曲率检测\上位机框架程序\2181-067\bin\Debug\DAL.dll.config
+C:\Users\zx\Desktop\BYD通用框架程序\2181-068 曲率检测\上位机框架程序\2181-067\bin\Debug\DataModel.pdb
+C:\Users\zx\Desktop\BYD通用框架程序\2181-068 曲率检测\上位机框架程序\2181-067\bin\Debug\DataModel.dll.config
+C:\Users\zx\Desktop\BYD通用框架程序\2181-068 曲率检测\上位机框架程序\2181-067\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\zx\Desktop\BYD通用框架程序\2181-068 曲率检测\上位机框架程序\2181-067\bin\Debug\Google.Protobuf.pdb
+C:\Users\zx\Desktop\BYD通用框架程序\2181-068 曲率检测\上位机框架程序\2181-067\bin\Debug\Google.Protobuf.xml
+C:\Users\zx\Desktop\BYD通用框架程序\2181-068 曲率检测\上位机框架程序\2181-067\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\zx\Desktop\BYD通用框架程序\2181-068 曲率检测\上位机框架程序\2181-067\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\zx\Desktop\BYD通用框架程序\2181-068 曲率检测\上位机框架程序\2181-067\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\zx\Desktop\BYD通用框架程序\2181-068 曲率检测\上位机框架程序\2181-067\bin\Debug\MySql.Data.xml
+C:\Users\zx\Desktop\BYD通用框架程序\2181-068 曲率检测\上位机框架程序\2181-067\bin\Debug\Newtonsoft.Json.xml
+C:\Users\zx\Desktop\BYD通用框架程序\2181-068 曲率检测\上位机框架程序\2181-067\bin\Debug\Newtonsoft.Json.Schema.xml
+C:\Users\zx\Desktop\BYD通用框架程序\2181-068 曲率检测\上位机框架程序\2181-067\bin\Debug\System.Buffers.xml
+C:\Users\zx\Desktop\BYD通用框架程序\2181-068 曲率检测\上位机框架程序\2181-067\bin\Debug\System.Memory.xml
+C:\Users\zx\Desktop\BYD通用框架程序\2181-068 曲率检测\上位机框架程序\2181-067\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\zx\Desktop\BYD通用框架程序\2181-068 曲率检测\上位机框架程序\2181-067\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\zx\Desktop\BYD通用框架程序\2181-068 曲率检测\上位机框架程序\2181-067\obj\Debug\上位机.csproj.AssemblyReference.cache
+C:\Users\zx\Desktop\BYD通用框架程序\2181-068 曲率检测\上位机框架程序\2181-067\obj\Debug\上位机.csproj.SuggestedBindingRedirects.cache
+C:\Users\zx\Desktop\BYD通用框架程序\2181-068 曲率检测\上位机框架程序\2181-067\obj\Debug\_2181_067.FrmError.resources
+C:\Users\zx\Desktop\BYD通用框架程序\2181-068 曲率检测\上位机框架程序\2181-067\obj\Debug\_2181_067.FrmMain.resources
+C:\Users\zx\Desktop\BYD通用框架程序\2181-068 曲率检测\上位机框架程序\2181-067\obj\Debug\_2181_067.FrmLogin.resources
+C:\Users\zx\Desktop\BYD通用框架程序\2181-068 曲率检测\上位机框架程序\2181-067\obj\Debug\_2181_067.FrmRewrite.resources
+C:\Users\zx\Desktop\BYD通用框架程序\2181-068 曲率检测\上位机框架程序\2181-067\obj\Debug\_2181_067.Forms.FrmSelectCom.resources
+C:\Users\zx\Desktop\BYD通用框架程序\2181-068 曲率检测\上位机框架程序\2181-067\obj\Debug\_2181_068.FrmShow.resources
+C:\Users\zx\Desktop\BYD通用框架程序\2181-068 曲率检测\上位机框架程序\2181-067\obj\Debug\_2181_067.FrmParam.resources
+C:\Users\zx\Desktop\BYD通用框架程序\2181-068 曲率检测\上位机框架程序\2181-067\obj\Debug\_2181_067.FrmSetCommunicate.resources
+C:\Users\zx\Desktop\BYD通用框架程序\2181-068 曲率检测\上位机框架程序\2181-067\obj\Debug\_2181_067.Forms.FrmTest.resources
+C:\Users\zx\Desktop\BYD通用框架程序\2181-068 曲率检测\上位机框架程序\2181-067\obj\Debug\_2181_067.FrmMes.resources
+C:\Users\zx\Desktop\BYD通用框架程序\2181-068 曲率检测\上位机框架程序\2181-067\obj\Debug\_2181_067.FrmProcessBar.resources
+C:\Users\zx\Desktop\BYD通用框架程序\2181-068 曲率检测\上位机框架程序\2181-067\obj\Debug\PLC通讯协议.FrmPLCTest.resources
+C:\Users\zx\Desktop\BYD通用框架程序\2181-068 曲率检测\上位机框架程序\2181-067\obj\Debug\_2181_067.Properties.Resources.resources
+C:\Users\zx\Desktop\BYD通用框架程序\2181-068 曲率检测\上位机框架程序\2181-067\obj\Debug\上位机.csproj.GenerateResource.cache
+C:\Users\zx\Desktop\BYD通用框架程序\2181-068 曲率检测\上位机框架程序\2181-067\obj\Debug\上位机.csproj.CoreCompileInputs.cache
+C:\Users\zx\Desktop\BYD通用框架程序\2181-068 曲率检测\上位机框架程序\2181-067\obj\Debug\上位机.csproj.CopyComplete
+C:\Users\zx\Desktop\BYD通用框架程序\2181-068 曲率检测\上位机框架程序\2181-067\obj\Debug\IPC_Frame.exe
+C:\Users\zx\Desktop\BYD通用框架程序\2181-068 曲率检测\上位机框架程序\2181-067\obj\Debug\IPC_Frame.pdb
+G:\BYD通用框架程序\2181-068 曲率检测\上位机框架程序\2181-067\bin\Debug\IPC_Frame.exe.config
+G:\BYD通用框架程序\2181-068 曲率检测\上位机框架程序\2181-067\bin\Debug\IPC_Frame.exe
+G:\BYD通用框架程序\2181-068 曲率检测\上位机框架程序\2181-067\bin\Debug\IPC_Frame.pdb
+G:\BYD通用框架程序\2181-068 曲率检测\上位机框架程序\2181-067\bin\Debug\BouncyCastle.Crypto.dll
+G:\BYD通用框架程序\2181-068 曲率检测\上位机框架程序\2181-067\bin\Debug\DAL.dll
+G:\BYD通用框架程序\2181-068 曲率检测\上位机框架程序\2181-067\bin\Debug\DataModel.dll
+G:\BYD通用框架程序\2181-068 曲率检测\上位机框架程序\2181-067\bin\Debug\Google.Protobuf.dll
+G:\BYD通用框架程序\2181-068 曲率检测\上位机框架程序\2181-067\bin\Debug\K4os.Compression.LZ4.dll
+G:\BYD通用框架程序\2181-068 曲率检测\上位机框架程序\2181-067\bin\Debug\K4os.Compression.LZ4.Streams.dll
+G:\BYD通用框架程序\2181-068 曲率检测\上位机框架程序\2181-067\bin\Debug\K4os.Hash.xxHash.dll
+G:\BYD通用框架程序\2181-068 曲率检测\上位机框架程序\2181-067\bin\Debug\MySql.Data.dll
+G:\BYD通用框架程序\2181-068 曲率检测\上位机框架程序\2181-067\bin\Debug\Newtonsoft.Json.dll
+G:\BYD通用框架程序\2181-068 曲率检测\上位机框架程序\2181-067\bin\Debug\Newtonsoft.Json.Schema.dll
+G:\BYD通用框架程序\2181-068 曲率检测\上位机框架程序\2181-067\bin\Debug\SunnyUI.Common.dll
+G:\BYD通用框架程序\2181-068 曲率检测\上位机框架程序\2181-067\bin\Debug\SunnyUI.dll
+G:\BYD通用框架程序\2181-068 曲率检测\上位机框架程序\2181-067\bin\Debug\System.Buffers.dll
+G:\BYD通用框架程序\2181-068 曲率检测\上位机框架程序\2181-067\bin\Debug\System.Memory.dll
+G:\BYD通用框架程序\2181-068 曲率检测\上位机框架程序\2181-067\bin\Debug\System.Numerics.Vectors.dll
+G:\BYD通用框架程序\2181-068 曲率检测\上位机框架程序\2181-067\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+G:\BYD通用框架程序\2181-068 曲率检测\上位机框架程序\2181-067\bin\Debug\ZstdNet.dll
+G:\BYD通用框架程序\2181-068 曲率检测\上位机框架程序\2181-067\bin\Debug\SqlSugar.dll
+G:\BYD通用框架程序\2181-068 曲率检测\上位机框架程序\2181-067\bin\Debug\DAL.pdb
+G:\BYD通用框架程序\2181-068 曲率检测\上位机框架程序\2181-067\bin\Debug\DAL.dll.config
+G:\BYD通用框架程序\2181-068 曲率检测\上位机框架程序\2181-067\bin\Debug\DataModel.pdb
+G:\BYD通用框架程序\2181-068 曲率检测\上位机框架程序\2181-067\bin\Debug\DataModel.dll.config
+G:\BYD通用框架程序\2181-068 曲率检测\上位机框架程序\2181-067\bin\Debug\BouncyCastle.Crypto.xml
+G:\BYD通用框架程序\2181-068 曲率检测\上位机框架程序\2181-067\bin\Debug\Google.Protobuf.pdb
+G:\BYD通用框架程序\2181-068 曲率检测\上位机框架程序\2181-067\bin\Debug\Google.Protobuf.xml
+G:\BYD通用框架程序\2181-068 曲率检测\上位机框架程序\2181-067\bin\Debug\K4os.Compression.LZ4.xml
+G:\BYD通用框架程序\2181-068 曲率检测\上位机框架程序\2181-067\bin\Debug\K4os.Compression.LZ4.Streams.xml
+G:\BYD通用框架程序\2181-068 曲率检测\上位机框架程序\2181-067\bin\Debug\K4os.Hash.xxHash.xml
+G:\BYD通用框架程序\2181-068 曲率检测\上位机框架程序\2181-067\bin\Debug\MySql.Data.xml
+G:\BYD通用框架程序\2181-068 曲率检测\上位机框架程序\2181-067\bin\Debug\Newtonsoft.Json.xml
+G:\BYD通用框架程序\2181-068 曲率检测\上位机框架程序\2181-067\bin\Debug\Newtonsoft.Json.Schema.xml
+G:\BYD通用框架程序\2181-068 曲率检测\上位机框架程序\2181-067\bin\Debug\System.Buffers.xml
+G:\BYD通用框架程序\2181-068 曲率检测\上位机框架程序\2181-067\bin\Debug\System.Memory.xml
+G:\BYD通用框架程序\2181-068 曲率检测\上位机框架程序\2181-067\bin\Debug\System.Numerics.Vectors.xml
+G:\BYD通用框架程序\2181-068 曲率检测\上位机框架程序\2181-067\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+G:\BYD通用框架程序\2181-068 曲率检测\上位机框架程序\2181-067\obj\Debug\上位机.csproj.AssemblyReference.cache
+G:\BYD通用框架程序\2181-068 曲率检测\上位机框架程序\2181-067\obj\Debug\上位机.csproj.SuggestedBindingRedirects.cache
+G:\BYD通用框架程序\2181-068 曲率检测\上位机框架程序\2181-067\obj\Debug\_2181_067.FrmError.resources
+G:\BYD通用框架程序\2181-068 曲率检测\上位机框架程序\2181-067\obj\Debug\_2181_067.FrmMain.resources
+G:\BYD通用框架程序\2181-068 曲率检测\上位机框架程序\2181-067\obj\Debug\_2181_067.FrmLogin.resources
+G:\BYD通用框架程序\2181-068 曲率检测\上位机框架程序\2181-067\obj\Debug\_2181_067.FrmRewrite.resources
+G:\BYD通用框架程序\2181-068 曲率检测\上位机框架程序\2181-067\obj\Debug\_2181_067.Forms.FrmSelectCom.resources
+G:\BYD通用框架程序\2181-068 曲率检测\上位机框架程序\2181-067\obj\Debug\_2181_068.FrmShow.resources
+G:\BYD通用框架程序\2181-068 曲率检测\上位机框架程序\2181-067\obj\Debug\_2181_067.FrmParam.resources
+G:\BYD通用框架程序\2181-068 曲率检测\上位机框架程序\2181-067\obj\Debug\_2181_067.FrmSetCommunicate.resources
+G:\BYD通用框架程序\2181-068 曲率检测\上位机框架程序\2181-067\obj\Debug\_2181_067.Forms.FrmTest.resources
+G:\BYD通用框架程序\2181-068 曲率检测\上位机框架程序\2181-067\obj\Debug\_2181_067.FrmMes.resources
+G:\BYD通用框架程序\2181-068 曲率检测\上位机框架程序\2181-067\obj\Debug\_2181_067.FrmProcessBar.resources
+G:\BYD通用框架程序\2181-068 曲率检测\上位机框架程序\2181-067\obj\Debug\PLC通讯协议.FrmPLCTest.resources
+G:\BYD通用框架程序\2181-068 曲率检测\上位机框架程序\2181-067\obj\Debug\_2181_067.Properties.Resources.resources
+G:\BYD通用框架程序\2181-068 曲率检测\上位机框架程序\2181-067\obj\Debug\上位机.csproj.GenerateResource.cache
+G:\BYD通用框架程序\2181-068 曲率检测\上位机框架程序\2181-067\obj\Debug\上位机.csproj.CoreCompileInputs.cache
+G:\BYD通用框架程序\2181-068 曲率检测\上位机框架程序\2181-067\obj\Debug\上位机.csproj.CopyComplete
+G:\BYD通用框架程序\2181-068 曲率检测\上位机框架程序\2181-067\obj\Debug\IPC_Frame.exe
+G:\BYD通用框架程序\2181-068 曲率检测\上位机框架程序\2181-067\obj\Debug\IPC_Frame.pdb
+H:\BYD通用框架程序\2181-068 曲率检测(1.6)\上位机框架程序\2181-067\bin\Debug\IPC_Frame.exe.config
+H:\BYD通用框架程序\2181-068 曲率检测(1.6)\上位机框架程序\2181-067\bin\Debug\IPC_Frame.exe
+H:\BYD通用框架程序\2181-068 曲率检测(1.6)\上位机框架程序\2181-067\bin\Debug\IPC_Frame.pdb
+H:\BYD通用框架程序\2181-068 曲率检测(1.6)\上位机框架程序\2181-067\bin\Debug\BouncyCastle.Crypto.dll
+H:\BYD通用框架程序\2181-068 曲率检测(1.6)\上位机框架程序\2181-067\bin\Debug\DAL.dll
+H:\BYD通用框架程序\2181-068 曲率检测(1.6)\上位机框架程序\2181-067\bin\Debug\DataModel.dll
+H:\BYD通用框架程序\2181-068 曲率检测(1.6)\上位机框架程序\2181-067\bin\Debug\Google.Protobuf.dll
+H:\BYD通用框架程序\2181-068 曲率检测(1.6)\上位机框架程序\2181-067\bin\Debug\K4os.Compression.LZ4.dll
+H:\BYD通用框架程序\2181-068 曲率检测(1.6)\上位机框架程序\2181-067\bin\Debug\K4os.Compression.LZ4.Streams.dll
+H:\BYD通用框架程序\2181-068 曲率检测(1.6)\上位机框架程序\2181-067\bin\Debug\K4os.Hash.xxHash.dll
+H:\BYD通用框架程序\2181-068 曲率检测(1.6)\上位机框架程序\2181-067\bin\Debug\MySql.Data.dll
+H:\BYD通用框架程序\2181-068 曲率检测(1.6)\上位机框架程序\2181-067\bin\Debug\Newtonsoft.Json.dll
+H:\BYD通用框架程序\2181-068 曲率检测(1.6)\上位机框架程序\2181-067\bin\Debug\Newtonsoft.Json.Schema.dll
+H:\BYD通用框架程序\2181-068 曲率检测(1.6)\上位机框架程序\2181-067\bin\Debug\SunnyUI.Common.dll
+H:\BYD通用框架程序\2181-068 曲率检测(1.6)\上位机框架程序\2181-067\bin\Debug\SunnyUI.dll
+H:\BYD通用框架程序\2181-068 曲率检测(1.6)\上位机框架程序\2181-067\bin\Debug\System.Buffers.dll
+H:\BYD通用框架程序\2181-068 曲率检测(1.6)\上位机框架程序\2181-067\bin\Debug\System.Memory.dll
+H:\BYD通用框架程序\2181-068 曲率检测(1.6)\上位机框架程序\2181-067\bin\Debug\System.Numerics.Vectors.dll
+H:\BYD通用框架程序\2181-068 曲率检测(1.6)\上位机框架程序\2181-067\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+H:\BYD通用框架程序\2181-068 曲率检测(1.6)\上位机框架程序\2181-067\bin\Debug\ZstdNet.dll
+H:\BYD通用框架程序\2181-068 曲率检测(1.6)\上位机框架程序\2181-067\bin\Debug\SqlSugar.dll
+H:\BYD通用框架程序\2181-068 曲率检测(1.6)\上位机框架程序\2181-067\bin\Debug\DAL.pdb
+H:\BYD通用框架程序\2181-068 曲率检测(1.6)\上位机框架程序\2181-067\bin\Debug\DAL.dll.config
+H:\BYD通用框架程序\2181-068 曲率检测(1.6)\上位机框架程序\2181-067\bin\Debug\DataModel.pdb
+H:\BYD通用框架程序\2181-068 曲率检测(1.6)\上位机框架程序\2181-067\bin\Debug\DataModel.dll.config
+H:\BYD通用框架程序\2181-068 曲率检测(1.6)\上位机框架程序\2181-067\bin\Debug\BouncyCastle.Crypto.xml
+H:\BYD通用框架程序\2181-068 曲率检测(1.6)\上位机框架程序\2181-067\bin\Debug\Google.Protobuf.pdb
+H:\BYD通用框架程序\2181-068 曲率检测(1.6)\上位机框架程序\2181-067\bin\Debug\Google.Protobuf.xml
+H:\BYD通用框架程序\2181-068 曲率检测(1.6)\上位机框架程序\2181-067\bin\Debug\K4os.Compression.LZ4.xml
+H:\BYD通用框架程序\2181-068 曲率检测(1.6)\上位机框架程序\2181-067\bin\Debug\K4os.Compression.LZ4.Streams.xml
+H:\BYD通用框架程序\2181-068 曲率检测(1.6)\上位机框架程序\2181-067\bin\Debug\K4os.Hash.xxHash.xml
+H:\BYD通用框架程序\2181-068 曲率检测(1.6)\上位机框架程序\2181-067\bin\Debug\MySql.Data.xml
+H:\BYD通用框架程序\2181-068 曲率检测(1.6)\上位机框架程序\2181-067\bin\Debug\Newtonsoft.Json.xml
+H:\BYD通用框架程序\2181-068 曲率检测(1.6)\上位机框架程序\2181-067\bin\Debug\Newtonsoft.Json.Schema.xml
+H:\BYD通用框架程序\2181-068 曲率检测(1.6)\上位机框架程序\2181-067\bin\Debug\System.Buffers.xml
+H:\BYD通用框架程序\2181-068 曲率检测(1.6)\上位机框架程序\2181-067\bin\Debug\System.Memory.xml
+H:\BYD通用框架程序\2181-068 曲率检测(1.6)\上位机框架程序\2181-067\bin\Debug\System.Numerics.Vectors.xml
+H:\BYD通用框架程序\2181-068 曲率检测(1.6)\上位机框架程序\2181-067\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+H:\BYD通用框架程序\2181-068 曲率检测(1.6)\上位机框架程序\2181-067\obj\Debug\上位机.csproj.AssemblyReference.cache
+H:\BYD通用框架程序\2181-068 曲率检测(1.6)\上位机框架程序\2181-067\obj\Debug\上位机.csproj.SuggestedBindingRedirects.cache
+H:\BYD通用框架程序\2181-068 曲率检测(1.6)\上位机框架程序\2181-067\obj\Debug\_2181_067.FrmError.resources
+H:\BYD通用框架程序\2181-068 曲率检测(1.6)\上位机框架程序\2181-067\obj\Debug\_2181_067.FrmMain.resources
+H:\BYD通用框架程序\2181-068 曲率检测(1.6)\上位机框架程序\2181-067\obj\Debug\_2181_067.FrmLogin.resources
+H:\BYD通用框架程序\2181-068 曲率检测(1.6)\上位机框架程序\2181-067\obj\Debug\_2181_067.FrmRewrite.resources
+H:\BYD通用框架程序\2181-068 曲率检测(1.6)\上位机框架程序\2181-067\obj\Debug\_2181_067.Forms.FrmSelectCom.resources
+H:\BYD通用框架程序\2181-068 曲率检测(1.6)\上位机框架程序\2181-067\obj\Debug\_2181_068.FrmShow.resources
+H:\BYD通用框架程序\2181-068 曲率检测(1.6)\上位机框架程序\2181-067\obj\Debug\_2181_067.FrmParam.resources
+H:\BYD通用框架程序\2181-068 曲率检测(1.6)\上位机框架程序\2181-067\obj\Debug\_2181_067.FrmSetCommunicate.resources
+H:\BYD通用框架程序\2181-068 曲率检测(1.6)\上位机框架程序\2181-067\obj\Debug\_2181_067.Forms.FrmTest.resources
+H:\BYD通用框架程序\2181-068 曲率检测(1.6)\上位机框架程序\2181-067\obj\Debug\_2181_067.FrmMes.resources
+H:\BYD通用框架程序\2181-068 曲率检测(1.6)\上位机框架程序\2181-067\obj\Debug\_2181_067.FrmProcessBar.resources
+H:\BYD通用框架程序\2181-068 曲率检测(1.6)\上位机框架程序\2181-067\obj\Debug\PLC通讯协议.FrmPLCTest.resources
+H:\BYD通用框架程序\2181-068 曲率检测(1.6)\上位机框架程序\2181-067\obj\Debug\_2181_067.Properties.Resources.resources
+H:\BYD通用框架程序\2181-068 曲率检测(1.6)\上位机框架程序\2181-067\obj\Debug\上位机.csproj.GenerateResource.cache
+H:\BYD通用框架程序\2181-068 曲率检测(1.6)\上位机框架程序\2181-067\obj\Debug\上位机.csproj.CoreCompileInputs.cache
+H:\BYD通用框架程序\2181-068 曲率检测(1.6)\上位机框架程序\2181-067\obj\Debug\上位机.csproj.CopyComplete
+H:\BYD通用框架程序\2181-068 曲率检测(1.6)\上位机框架程序\2181-067\obj\Debug\IPC_Frame.exe
+H:\BYD通用框架程序\2181-068 曲率检测(1.6)\上位机框架程序\2181-067\obj\Debug\IPC_Frame.pdb
+D:\2181-068 曲率检测\上位机框架程序\2181-067\bin\Debug\IPC_Frame.exe.config
+D:\2181-068 曲率检测\上位机框架程序\2181-067\bin\Debug\IPC_Frame.exe
+D:\2181-068 曲率检测\上位机框架程序\2181-067\bin\Debug\IPC_Frame.pdb
+D:\2181-068 曲率检测\上位机框架程序\2181-067\bin\Debug\BouncyCastle.Crypto.dll
+D:\2181-068 曲率检测\上位机框架程序\2181-067\bin\Debug\DAL.dll
+D:\2181-068 曲率检测\上位机框架程序\2181-067\bin\Debug\DataModel.dll
+D:\2181-068 曲率检测\上位机框架程序\2181-067\bin\Debug\Google.Protobuf.dll
+D:\2181-068 曲率检测\上位机框架程序\2181-067\bin\Debug\K4os.Compression.LZ4.dll
+D:\2181-068 曲率检测\上位机框架程序\2181-067\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\2181-068 曲率检测\上位机框架程序\2181-067\bin\Debug\K4os.Hash.xxHash.dll
+D:\2181-068 曲率检测\上位机框架程序\2181-067\bin\Debug\MySql.Data.dll
+D:\2181-068 曲率检测\上位机框架程序\2181-067\bin\Debug\Newtonsoft.Json.dll
+D:\2181-068 曲率检测\上位机框架程序\2181-067\bin\Debug\Newtonsoft.Json.Schema.dll
+D:\2181-068 曲率检测\上位机框架程序\2181-067\bin\Debug\SunnyUI.Common.dll
+D:\2181-068 曲率检测\上位机框架程序\2181-067\bin\Debug\SunnyUI.dll
+D:\2181-068 曲率检测\上位机框架程序\2181-067\bin\Debug\System.Buffers.dll
+D:\2181-068 曲率检测\上位机框架程序\2181-067\bin\Debug\System.Memory.dll
+D:\2181-068 曲率检测\上位机框架程序\2181-067\bin\Debug\System.Numerics.Vectors.dll
+D:\2181-068 曲率检测\上位机框架程序\2181-067\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\2181-068 曲率检测\上位机框架程序\2181-067\bin\Debug\ZstdNet.dll
+D:\2181-068 曲率检测\上位机框架程序\2181-067\bin\Debug\SqlSugar.dll
+D:\2181-068 曲率检测\上位机框架程序\2181-067\bin\Debug\DAL.pdb
+D:\2181-068 曲率检测\上位机框架程序\2181-067\bin\Debug\DAL.dll.config
+D:\2181-068 曲率检测\上位机框架程序\2181-067\bin\Debug\DataModel.pdb
+D:\2181-068 曲率检测\上位机框架程序\2181-067\bin\Debug\DataModel.dll.config
+D:\2181-068 曲率检测\上位机框架程序\2181-067\bin\Debug\BouncyCastle.Crypto.xml
+D:\2181-068 曲率检测\上位机框架程序\2181-067\bin\Debug\Google.Protobuf.pdb
+D:\2181-068 曲率检测\上位机框架程序\2181-067\bin\Debug\Google.Protobuf.xml
+D:\2181-068 曲率检测\上位机框架程序\2181-067\bin\Debug\K4os.Compression.LZ4.xml
+D:\2181-068 曲率检测\上位机框架程序\2181-067\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\2181-068 曲率检测\上位机框架程序\2181-067\bin\Debug\K4os.Hash.xxHash.xml
+D:\2181-068 曲率检测\上位机框架程序\2181-067\bin\Debug\MySql.Data.xml
+D:\2181-068 曲率检测\上位机框架程序\2181-067\bin\Debug\Newtonsoft.Json.xml
+D:\2181-068 曲率检测\上位机框架程序\2181-067\bin\Debug\Newtonsoft.Json.Schema.xml
+D:\2181-068 曲率检测\上位机框架程序\2181-067\bin\Debug\System.Buffers.xml
+D:\2181-068 曲率检测\上位机框架程序\2181-067\bin\Debug\System.Memory.xml
+D:\2181-068 曲率检测\上位机框架程序\2181-067\bin\Debug\System.Numerics.Vectors.xml
+D:\2181-068 曲率检测\上位机框架程序\2181-067\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\2181-068 曲率检测\上位机框架程序\2181-067\obj\Debug\上位机.csproj.AssemblyReference.cache
+D:\2181-068 曲率检测\上位机框架程序\2181-067\obj\Debug\上位机.csproj.SuggestedBindingRedirects.cache
+D:\2181-068 曲率检测\上位机框架程序\2181-067\obj\Debug\_2181_067.FrmError.resources
+D:\2181-068 曲率检测\上位机框架程序\2181-067\obj\Debug\_2181_067.FrmMain.resources
+D:\2181-068 曲率检测\上位机框架程序\2181-067\obj\Debug\_2181_067.FrmLogin.resources
+D:\2181-068 曲率检测\上位机框架程序\2181-067\obj\Debug\_2181_067.FrmRewrite.resources
+D:\2181-068 曲率检测\上位机框架程序\2181-067\obj\Debug\_2181_067.Forms.FrmSelectCom.resources
+D:\2181-068 曲率检测\上位机框架程序\2181-067\obj\Debug\_2181_068.FrmShow.resources
+D:\2181-068 曲率检测\上位机框架程序\2181-067\obj\Debug\_2181_067.FrmParam.resources
+D:\2181-068 曲率检测\上位机框架程序\2181-067\obj\Debug\_2181_067.FrmSetCommunicate.resources
+D:\2181-068 曲率检测\上位机框架程序\2181-067\obj\Debug\_2181_067.Forms.FrmTest.resources
+D:\2181-068 曲率检测\上位机框架程序\2181-067\obj\Debug\_2181_067.FrmMes.resources
+D:\2181-068 曲率检测\上位机框架程序\2181-067\obj\Debug\_2181_067.FrmProcessBar.resources
+D:\2181-068 曲率检测\上位机框架程序\2181-067\obj\Debug\PLC通讯协议.FrmPLCTest.resources
+D:\2181-068 曲率检测\上位机框架程序\2181-067\obj\Debug\_2181_067.Properties.Resources.resources
+D:\2181-068 曲率检测\上位机框架程序\2181-067\obj\Debug\上位机.csproj.GenerateResource.cache
+D:\2181-068 曲率检测\上位机框架程序\2181-067\obj\Debug\上位机.csproj.CoreCompileInputs.cache
+D:\2181-068 曲率检测\上位机框架程序\2181-067\obj\Debug\上位机.csproj.CopyComplete
+D:\2181-068 曲率检测\上位机框架程序\2181-067\obj\Debug\IPC_Frame.exe
+D:\2181-068 曲率检测\上位机框架程序\2181-067\obj\Debug\IPC_Frame.pdb
+C:\Users\zx\Desktop\BYD通用框架程序\2181-068 曲率检测\上位机框架程序\2181-067\obj\Debug\_2181_067.Forms.FrmMonitor.resources
+D:\2181-068 曲率检测\上位机框架程序\2181-067\obj\Debug\_2181_067.Forms.FrmMonitor.resources
+F:\2181-062&067&068\2181-068 曲率检测\上位机框架程序\2181-067\bin\Debug\IPC_Frame.exe.config
+F:\2181-062&067&068\2181-068 曲率检测\上位机框架程序\2181-067\bin\Debug\IPC_Frame.exe
+F:\2181-062&067&068\2181-068 曲率检测\上位机框架程序\2181-067\bin\Debug\IPC_Frame.pdb
+F:\2181-062&067&068\2181-068 曲率检测\上位机框架程序\2181-067\bin\Debug\BouncyCastle.Crypto.dll
+F:\2181-062&067&068\2181-068 曲率检测\上位机框架程序\2181-067\bin\Debug\DAL.dll
+F:\2181-062&067&068\2181-068 曲率检测\上位机框架程序\2181-067\bin\Debug\DataModel.dll
+F:\2181-062&067&068\2181-068 曲率检测\上位机框架程序\2181-067\bin\Debug\Google.Protobuf.dll
+F:\2181-062&067&068\2181-068 曲率检测\上位机框架程序\2181-067\bin\Debug\K4os.Compression.LZ4.dll
+F:\2181-062&067&068\2181-068 曲率检测\上位机框架程序\2181-067\bin\Debug\K4os.Compression.LZ4.Streams.dll
+F:\2181-062&067&068\2181-068 曲率检测\上位机框架程序\2181-067\bin\Debug\K4os.Hash.xxHash.dll
+F:\2181-062&067&068\2181-068 曲率检测\上位机框架程序\2181-067\bin\Debug\MySql.Data.dll
+F:\2181-062&067&068\2181-068 曲率检测\上位机框架程序\2181-067\bin\Debug\Newtonsoft.Json.dll
+F:\2181-062&067&068\2181-068 曲率检测\上位机框架程序\2181-067\bin\Debug\Newtonsoft.Json.Schema.dll
+F:\2181-062&067&068\2181-068 曲率检测\上位机框架程序\2181-067\bin\Debug\SunnyUI.Common.dll
+F:\2181-062&067&068\2181-068 曲率检测\上位机框架程序\2181-067\bin\Debug\SunnyUI.dll
+F:\2181-062&067&068\2181-068 曲率检测\上位机框架程序\2181-067\bin\Debug\System.Buffers.dll
+F:\2181-062&067&068\2181-068 曲率检测\上位机框架程序\2181-067\bin\Debug\System.Memory.dll
+F:\2181-062&067&068\2181-068 曲率检测\上位机框架程序\2181-067\bin\Debug\System.Numerics.Vectors.dll
+F:\2181-062&067&068\2181-068 曲率检测\上位机框架程序\2181-067\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+F:\2181-062&067&068\2181-068 曲率检测\上位机框架程序\2181-067\bin\Debug\ZstdNet.dll
+F:\2181-062&067&068\2181-068 曲率检测\上位机框架程序\2181-067\bin\Debug\SqlSugar.dll
+F:\2181-062&067&068\2181-068 曲率检测\上位机框架程序\2181-067\bin\Debug\DAL.pdb
+F:\2181-062&067&068\2181-068 曲率检测\上位机框架程序\2181-067\bin\Debug\DAL.dll.config
+F:\2181-062&067&068\2181-068 曲率检测\上位机框架程序\2181-067\bin\Debug\DataModel.pdb
+F:\2181-062&067&068\2181-068 曲率检测\上位机框架程序\2181-067\bin\Debug\DataModel.dll.config
+F:\2181-062&067&068\2181-068 曲率检测\上位机框架程序\2181-067\bin\Debug\BouncyCastle.Crypto.xml
+F:\2181-062&067&068\2181-068 曲率检测\上位机框架程序\2181-067\bin\Debug\Google.Protobuf.pdb
+F:\2181-062&067&068\2181-068 曲率检测\上位机框架程序\2181-067\bin\Debug\Google.Protobuf.xml
+F:\2181-062&067&068\2181-068 曲率检测\上位机框架程序\2181-067\bin\Debug\K4os.Compression.LZ4.xml
+F:\2181-062&067&068\2181-068 曲率检测\上位机框架程序\2181-067\bin\Debug\K4os.Compression.LZ4.Streams.xml
+F:\2181-062&067&068\2181-068 曲率检测\上位机框架程序\2181-067\bin\Debug\K4os.Hash.xxHash.xml
+F:\2181-062&067&068\2181-068 曲率检测\上位机框架程序\2181-067\bin\Debug\MySql.Data.xml
+F:\2181-062&067&068\2181-068 曲率检测\上位机框架程序\2181-067\bin\Debug\Newtonsoft.Json.xml
+F:\2181-062&067&068\2181-068 曲率检测\上位机框架程序\2181-067\bin\Debug\Newtonsoft.Json.Schema.xml
+F:\2181-062&067&068\2181-068 曲率检测\上位机框架程序\2181-067\bin\Debug\System.Buffers.xml
+F:\2181-062&067&068\2181-068 曲率检测\上位机框架程序\2181-067\bin\Debug\System.Memory.xml
+F:\2181-062&067&068\2181-068 曲率检测\上位机框架程序\2181-067\bin\Debug\System.Numerics.Vectors.xml
+F:\2181-062&067&068\2181-068 曲率检测\上位机框架程序\2181-067\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+F:\2181-062&067&068\2181-068 曲率检测\上位机框架程序\2181-067\obj\Debug\上位机.csproj.AssemblyReference.cache
+F:\2181-062&067&068\2181-068 曲率检测\上位机框架程序\2181-067\obj\Debug\上位机.csproj.SuggestedBindingRedirects.cache
+F:\2181-062&067&068\2181-068 曲率检测\上位机框架程序\2181-067\obj\Debug\_2181_067.FrmError.resources
+F:\2181-062&067&068\2181-068 曲率检测\上位机框架程序\2181-067\obj\Debug\_2181_067.FrmMain.resources
+F:\2181-062&067&068\2181-068 曲率检测\上位机框架程序\2181-067\obj\Debug\_2181_067.FrmLogin.resources
+F:\2181-062&067&068\2181-068 曲率检测\上位机框架程序\2181-067\obj\Debug\_2181_067.Forms.FrmMonitor.resources
+F:\2181-062&067&068\2181-068 曲率检测\上位机框架程序\2181-067\obj\Debug\_2181_067.FrmRewrite.resources
+F:\2181-062&067&068\2181-068 曲率检测\上位机框架程序\2181-067\obj\Debug\_2181_067.Forms.FrmSelectCom.resources
+F:\2181-062&067&068\2181-068 曲率检测\上位机框架程序\2181-067\obj\Debug\_2181_068.FrmShow.resources
+F:\2181-062&067&068\2181-068 曲率检测\上位机框架程序\2181-067\obj\Debug\_2181_067.FrmParam.resources
+F:\2181-062&067&068\2181-068 曲率检测\上位机框架程序\2181-067\obj\Debug\_2181_067.FrmSetCommunicate.resources
+F:\2181-062&067&068\2181-068 曲率检测\上位机框架程序\2181-067\obj\Debug\_2181_067.Forms.FrmTest.resources
+F:\2181-062&067&068\2181-068 曲率检测\上位机框架程序\2181-067\obj\Debug\_2181_067.FrmMes.resources
+F:\2181-062&067&068\2181-068 曲率检测\上位机框架程序\2181-067\obj\Debug\_2181_067.FrmProcessBar.resources
+F:\2181-062&067&068\2181-068 曲率检测\上位机框架程序\2181-067\obj\Debug\PLC通讯协议.FrmPLCTest.resources
+F:\2181-062&067&068\2181-068 曲率检测\上位机框架程序\2181-067\obj\Debug\_2181_067.Properties.Resources.resources
+F:\2181-062&067&068\2181-068 曲率检测\上位机框架程序\2181-067\obj\Debug\上位机.csproj.GenerateResource.cache
+F:\2181-062&067&068\2181-068 曲率检测\上位机框架程序\2181-067\obj\Debug\上位机.csproj.CoreCompileInputs.cache
+F:\2181-062&067&068\2181-068 曲率检测\上位机框架程序\2181-067\obj\Debug\上位机.csproj.CopyComplete
+F:\2181-062&067&068\2181-068 曲率检测\上位机框架程序\2181-067\obj\Debug\IPC_Frame.exe
+F:\2181-062&067&068\2181-068 曲率检测\上位机框架程序\2181-067\obj\Debug\IPC_Frame.pdb
+H:\2181-062&067&068\2181-068 曲率检测\上位机框架程序\2181-067\bin\Debug\IPC_Frame.exe.config
+H:\2181-062&067&068\2181-068 曲率检测\上位机框架程序\2181-067\bin\Debug\IPC_Frame.exe
+H:\2181-062&067&068\2181-068 曲率检测\上位机框架程序\2181-067\bin\Debug\IPC_Frame.pdb
+H:\2181-062&067&068\2181-068 曲率检测\上位机框架程序\2181-067\bin\Debug\BouncyCastle.Crypto.dll
+H:\2181-062&067&068\2181-068 曲率检测\上位机框架程序\2181-067\bin\Debug\DAL.dll
+H:\2181-062&067&068\2181-068 曲率检测\上位机框架程序\2181-067\bin\Debug\DataModel.dll
+H:\2181-062&067&068\2181-068 曲率检测\上位机框架程序\2181-067\bin\Debug\Google.Protobuf.dll
+H:\2181-062&067&068\2181-068 曲率检测\上位机框架程序\2181-067\bin\Debug\K4os.Compression.LZ4.dll
+H:\2181-062&067&068\2181-068 曲率检测\上位机框架程序\2181-067\bin\Debug\K4os.Compression.LZ4.Streams.dll
+H:\2181-062&067&068\2181-068 曲率检测\上位机框架程序\2181-067\bin\Debug\K4os.Hash.xxHash.dll
+H:\2181-062&067&068\2181-068 曲率检测\上位机框架程序\2181-067\bin\Debug\MySql.Data.dll
+H:\2181-062&067&068\2181-068 曲率检测\上位机框架程序\2181-067\bin\Debug\Newtonsoft.Json.dll
+H:\2181-062&067&068\2181-068 曲率检测\上位机框架程序\2181-067\bin\Debug\Newtonsoft.Json.Schema.dll
+H:\2181-062&067&068\2181-068 曲率检测\上位机框架程序\2181-067\bin\Debug\SunnyUI.Common.dll
+H:\2181-062&067&068\2181-068 曲率检测\上位机框架程序\2181-067\bin\Debug\SunnyUI.dll
+H:\2181-062&067&068\2181-068 曲率检测\上位机框架程序\2181-067\bin\Debug\System.Buffers.dll
+H:\2181-062&067&068\2181-068 曲率检测\上位机框架程序\2181-067\bin\Debug\System.Memory.dll
+H:\2181-062&067&068\2181-068 曲率检测\上位机框架程序\2181-067\bin\Debug\System.Numerics.Vectors.dll
+H:\2181-062&067&068\2181-068 曲率检测\上位机框架程序\2181-067\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+H:\2181-062&067&068\2181-068 曲率检测\上位机框架程序\2181-067\bin\Debug\ZstdNet.dll
+H:\2181-062&067&068\2181-068 曲率检测\上位机框架程序\2181-067\bin\Debug\SqlSugar.dll
+H:\2181-062&067&068\2181-068 曲率检测\上位机框架程序\2181-067\bin\Debug\DAL.pdb
+H:\2181-062&067&068\2181-068 曲率检测\上位机框架程序\2181-067\bin\Debug\DAL.dll.config
+H:\2181-062&067&068\2181-068 曲率检测\上位机框架程序\2181-067\bin\Debug\DataModel.pdb
+H:\2181-062&067&068\2181-068 曲率检测\上位机框架程序\2181-067\bin\Debug\DataModel.dll.config
+H:\2181-062&067&068\2181-068 曲率检测\上位机框架程序\2181-067\bin\Debug\BouncyCastle.Crypto.xml
+H:\2181-062&067&068\2181-068 曲率检测\上位机框架程序\2181-067\bin\Debug\Google.Protobuf.pdb
+H:\2181-062&067&068\2181-068 曲率检测\上位机框架程序\2181-067\bin\Debug\Google.Protobuf.xml
+H:\2181-062&067&068\2181-068 曲率检测\上位机框架程序\2181-067\bin\Debug\K4os.Compression.LZ4.xml
+H:\2181-062&067&068\2181-068 曲率检测\上位机框架程序\2181-067\bin\Debug\K4os.Compression.LZ4.Streams.xml
+H:\2181-062&067&068\2181-068 曲率检测\上位机框架程序\2181-067\bin\Debug\K4os.Hash.xxHash.xml
+H:\2181-062&067&068\2181-068 曲率检测\上位机框架程序\2181-067\bin\Debug\MySql.Data.xml
+H:\2181-062&067&068\2181-068 曲率检测\上位机框架程序\2181-067\bin\Debug\Newtonsoft.Json.xml
+H:\2181-062&067&068\2181-068 曲率检测\上位机框架程序\2181-067\bin\Debug\Newtonsoft.Json.Schema.xml
+H:\2181-062&067&068\2181-068 曲率检测\上位机框架程序\2181-067\bin\Debug\System.Buffers.xml
+H:\2181-062&067&068\2181-068 曲率检测\上位机框架程序\2181-067\bin\Debug\System.Memory.xml
+H:\2181-062&067&068\2181-068 曲率检测\上位机框架程序\2181-067\bin\Debug\System.Numerics.Vectors.xml
+H:\2181-062&067&068\2181-068 曲率检测\上位机框架程序\2181-067\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+H:\2181-062&067&068\2181-068 曲率检测\上位机框架程序\2181-067\obj\Debug\上位机.csproj.AssemblyReference.cache
+H:\2181-062&067&068\2181-068 曲率检测\上位机框架程序\2181-067\obj\Debug\上位机.csproj.SuggestedBindingRedirects.cache
+H:\2181-062&067&068\2181-068 曲率检测\上位机框架程序\2181-067\obj\Debug\_2181_067.FrmError.resources
+H:\2181-062&067&068\2181-068 曲率检测\上位机框架程序\2181-067\obj\Debug\_2181_067.FrmMain.resources
+H:\2181-062&067&068\2181-068 曲率检测\上位机框架程序\2181-067\obj\Debug\_2181_067.FrmLogin.resources
+H:\2181-062&067&068\2181-068 曲率检测\上位机框架程序\2181-067\obj\Debug\_2181_067.Forms.FrmMonitor.resources
+H:\2181-062&067&068\2181-068 曲率检测\上位机框架程序\2181-067\obj\Debug\_2181_067.FrmRewrite.resources
+H:\2181-062&067&068\2181-068 曲率检测\上位机框架程序\2181-067\obj\Debug\_2181_067.Forms.FrmSelectCom.resources
+H:\2181-062&067&068\2181-068 曲率检测\上位机框架程序\2181-067\obj\Debug\_2181_068.FrmShow.resources
+H:\2181-062&067&068\2181-068 曲率检测\上位机框架程序\2181-067\obj\Debug\_2181_067.FrmParam.resources
+H:\2181-062&067&068\2181-068 曲率检测\上位机框架程序\2181-067\obj\Debug\_2181_067.FrmSetCommunicate.resources
+H:\2181-062&067&068\2181-068 曲率检测\上位机框架程序\2181-067\obj\Debug\_2181_067.Forms.FrmTest.resources
+H:\2181-062&067&068\2181-068 曲率检测\上位机框架程序\2181-067\obj\Debug\_2181_067.FrmMes.resources
+H:\2181-062&067&068\2181-068 曲率检测\上位机框架程序\2181-067\obj\Debug\_2181_067.FrmProcessBar.resources
+H:\2181-062&067&068\2181-068 曲率检测\上位机框架程序\2181-067\obj\Debug\PLC通讯协议.FrmPLCTest.resources
+H:\2181-062&067&068\2181-068 曲率检测\上位机框架程序\2181-067\obj\Debug\_2181_067.Properties.Resources.resources
+H:\2181-062&067&068\2181-068 曲率检测\上位机框架程序\2181-067\obj\Debug\上位机.csproj.GenerateResource.cache
+H:\2181-062&067&068\2181-068 曲率检测\上位机框架程序\2181-067\obj\Debug\上位机.csproj.CoreCompileInputs.cache
+H:\2181-062&067&068\2181-068 曲率检测\上位机框架程序\2181-067\obj\Debug\上位机.csproj.CopyComplete
+H:\2181-062&067&068\2181-068 曲率检测\上位机框架程序\2181-067\obj\Debug\IPC_Frame.exe
+H:\2181-062&067&068\2181-068 曲率检测\上位机框架程序\2181-067\obj\Debug\IPC_Frame.pdb

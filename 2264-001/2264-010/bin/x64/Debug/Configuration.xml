@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Params xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SilenceIP>192.168.250.100</SilenceIP>
+  <b_UseMes>true</b_UseMes>
+  <TriggerScanAddr>D3350</TriggerScanAddr>
+  <ScanOKAddr>D3360</ScanOKAddr>
+  <ReachAddr>D3370</ReachAddr>
+  <WorkDoneAddr>D3380</WorkDoneAddr>
+  <PLCStart>D3310</PLCStart>
+  <PLCStop>D3320</PLCStop>
+  <PLCReset>D3300</PLCReset>
+  <PLCEmg>D3340</PLCEmg>
+  <MachineName>曲率测试</MachineName>
+  <ScanTime>5</ScanTime>
+  <DataPath>D:\Data\曲率检测</DataPath>
+</Params>
