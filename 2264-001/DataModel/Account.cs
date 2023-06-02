@@ -6,7 +6,7 @@ using System.Security.Principal;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace BYD2181
+namespace DataModel
 {
     [Serializable]
     public class Account

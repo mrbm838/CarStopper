@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.Windows.Forms.DataVisualization.Charting;
 
-namespace BYD2181
+namespace OP010
 {
     public delegate void DelShow(object sender, EventArgs e);
     public delegate void DelHideForm();

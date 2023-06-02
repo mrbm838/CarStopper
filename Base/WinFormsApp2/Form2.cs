@@ -7,13 +7,12 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-using Sunny.UI;
 
-namespace OP010.Forms
+namespace WinFormsApp2
 {
-    public partial class FrmAxes : UIForm
+    public partial class Form2 : Form
     {
-        public FrmAxes()
+        public Form2()
         {
             InitializeComponent();
         }

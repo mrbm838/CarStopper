@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace BYD2181
+namespace DataModel
 {
     [Serializable]
     public class SNClass

@@ -5,32 +5,31 @@ using System.Linq;
 using System.Text;
 using System.Threading;
 using System.Threading.Tasks;
-using static OP010.Classes.Motion;
 
-namespace OP010.Classes
+namespace OP010.Motion
 {
-    internal class MotorInit
+    public class MotionLoad
     {
-        private Motion motion;
-        private Motion.enInitStep initStep;
-        private Action<int, string> handleBarValue;
+        private static MotionModule motion;
+        private static MotionModule.enInitStep initStep;
+        private static Action<int, string> handleBarValue;
 
-        public MotorInit(ref Motion motion, Action<int, string> handleBarValue)
+        public static void MotionLoading(MotionModule motionTemp, Action<int, string> handleBarValueTemp)
         {
-            this.motion = motion;
-            this.handleBarValue = handleBarValue;
-            initStep = Motion.enInitStep.StartLoading;
+            motion = motionTemp;
+            handleBarValue = handleBarValueTemp;
+            initStep = MotionModule.enInitStep.StartLoading;
             var task = new Task(Init);
             task.Start();
             task.Wait();
         }
 
-        private void Init()
+        private static void Init()
         {
             int process = 0;
             while (true)
             {
-                Thread.Sleep(5000);
+                Thread.Sleep(500);
                 if (process >= 100)
                 {
                     Thread.Sleep(500);

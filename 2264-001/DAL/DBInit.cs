@@ -5,7 +5,6 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Configuration;
 using SqlSugar;
-using BYD2181;
 using DataModel;
 
 namespace DAL

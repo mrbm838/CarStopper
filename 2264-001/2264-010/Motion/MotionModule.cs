@@ -8,9 +8,9 @@ using MotionBase;
 using Cowain_AutoMachine.Flow.IO_Cylinder;
 using OpenOffice_Connect;
 
-namespace OP010.Classes
+namespace OP010.Motion
 {
-    public class Motion : Base
+    public class MotionModule : Base
     {
         //public clsMotors clsMotor;
         //public clsIO_Ports m_IO_Port;
@@ -19,7 +19,7 @@ namespace OP010.Classes
         public readonly string[,] PointsArray = new string[3, 2];
         private AddMDBMachineData MDB;
 
-        public Motion()
+        public MotionModule()
         {
             m_strMachinePath = Environment.CurrentDirectory + "\\Machine.mdb";
             clsMotors clsMotor = new clsMotors(this, 0, m_strMachinePath, "", 2000);
@@ -28,7 +28,6 @@ namespace OP010.Classes
             AddBase(ref clsCylinder.m_NowAddress);
             clsIO_Ports clsPort = new clsIO_Ports(this, 0, m_strMachinePath, "", 2000);
             AddBase(ref clsPort.m_NowAddress);
-
             StartInitial();
 
             MotorsInitialize();
@@ -38,7 +37,7 @@ namespace OP010.Classes
             RunnerInitialize();
         }
 
-        public void ReadMachineData()
+        private void ReadMachineData()
         {
             MDB.ReadTables("MachineData");
             StaticParam.MachineAxesPoints.Clear();

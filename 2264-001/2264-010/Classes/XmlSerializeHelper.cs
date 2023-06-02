@@ -7,7 +7,7 @@ using System.IO;
 using System.Xml.Serialization;
 using System.Xml;
 
-namespace BYD2181
+namespace OP010
 {
     public class XmlSerializeHelper<T> where T : class,new ()
     {

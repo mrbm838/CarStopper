@@ -113,7 +113,6 @@ E:\2264\上位机程序\2264-001\2264-010\bin\x64\Debug\System.Numerics.Vectors.
 E:\2264\上位机程序\2264-001\2264-010\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.xml
 E:\2264\上位机程序\2264-001\2264-010\obj\x64\Debug\OP010.csproj.AssemblyReference.cache
 E:\2264\上位机程序\2264-001\2264-010\obj\x64\Debug\OP010.csproj.SuggestedBindingRedirects.cache
-E:\2264\上位机程序\2264-001\2264-010\obj\x64\Debug\OP010.Forms.FrmAxes.resources
 E:\2264\上位机程序\2264-001\2264-010\obj\x64\Debug\OP010.FrmError.resources
 E:\2264\上位机程序\2264-001\2264-010\obj\x64\Debug\OP010.FrmMain.resources
 E:\2264\上位机程序\2264-001\2264-010\obj\x64\Debug\OP010.FrmLogin.resources
@@ -136,3 +135,4 @@ E:\2264\上位机程序\2264-001\2264-010\bin\x64\Debug\OP010.exe
 E:\2264\上位机程序\2264-001\2264-010\bin\x64\Debug\OP010.pdb
 E:\2264\上位机程序\2264-001\2264-010\obj\x64\Debug\OP010.exe
 E:\2264\上位机程序\2264-001\2264-010\obj\x64\Debug\OP010.pdb
+E:\2264\上位机程序\2264-001\2264-010\obj\x64\Debug\OP010.Forms.FrmMotion.resources

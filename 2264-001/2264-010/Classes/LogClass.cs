@@ -9,7 +9,7 @@ using System.Threading;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace BYD2181
+namespace OP010
 {
     public class Msg
     {

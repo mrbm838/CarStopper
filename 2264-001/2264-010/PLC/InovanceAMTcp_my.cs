@@ -7,7 +7,7 @@ using HslCommunication;
 using HslCommunication.Profinet.Inovance;
 using Cowain;
 using HslCommunication.Core;
-using BYD2181;
+using DataModel;
 
 namespace Cowain
 {

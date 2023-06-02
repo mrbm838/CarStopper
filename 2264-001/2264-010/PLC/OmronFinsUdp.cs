@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 using HslCommunication;
 using HslCommunication.Core;
 using Cowain;
-using BYD2181;
+using DataModel;
 
 namespace Cowain
 {

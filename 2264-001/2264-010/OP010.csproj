@@ -215,17 +215,17 @@
     <Compile Include="Classes\GT_Helper.cs" />
     <Compile Include="Classes\HandErr.cs" />
     <Compile Include="Classes\MachineState.cs" />
-    <Compile Include="Classes\Motion.cs" />
-    <Compile Include="Classes\MotorInit.cs" />
+    <Compile Include="Motion\MotionModule.cs" />
+    <Compile Include="Motion\MotionLoad.cs" />
     <Compile Include="Classes\NetSocket.cs" />
     <Compile Include="Classes\SaveData.cs" />
     <Compile Include="Classes\Communicationobj.cs" />
     <Compile Include="Classes\SerialPortClass.cs" />
-    <Compile Include="Forms\FrmAxes.cs">
+    <Compile Include="Forms\FrmMotion.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Forms\FrmAxes.Designer.cs">
-      <DependentUpon>FrmAxes.cs</DependentUpon>
+    <Compile Include="Forms\FrmMotion.Designer.cs">
+      <DependentUpon>FrmMotion.cs</DependentUpon>
     </Compile>
     <Compile Include="Forms\FrmMain.cs">
       <SubType>Form</SubType>
@@ -321,8 +321,8 @@
     <Compile Include="PLC\XinJieHelper.cs" />
     <Compile Include="Classes\XmlSerializeHelper.cs" />
     <Compile Include="Classes\StaticParam.cs" />
-    <EmbeddedResource Include="Forms\FrmAxes.resx">
-      <DependentUpon>FrmAxes.cs</DependentUpon>
+    <EmbeddedResource Include="Forms\FrmMotion.resx">
+      <DependentUpon>FrmMotion.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Forms\FrmError.resx">
       <DependentUpon>FrmError.cs</DependentUpon>
@@ -415,5 +415,6 @@
       <Install>false</Install>
     </BootstrapperPackage>
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

@@ -10,7 +10,7 @@ using HslCommunication;
 using HslCommunication.Core;
 using HslCommunication.ModBus;
 using System.Text.RegularExpressions;
-using BYD2181;
+using DataModel;
 
 namespace Cowain
 {

@@ -1,5 +1,5 @@
 ﻿using OP010.PLC;
-using BYD2181;
+using DataModel;
 using cowain;
 using cowain.FlowWork;
 using Cowain;
@@ -21,7 +21,7 @@ using Sunny.UI;
 using ReadAndWriteConfigSystem;
 using System.Threading;
 using OP010;
-using OP010.Classes;
+using OP010.Motion;
 using OP010.Forms;
 
 namespace OP010
@@ -36,7 +36,6 @@ namespace OP010
         public FrmMes frmMes;
         public FrmProcessBar processBar;
 
-
         LogClass myLog;
         Params myParams;
         IPLC plc;
@@ -46,9 +45,6 @@ namespace OP010
         GT_Helper myGT_Helper;
         PLCWorkClass myPLCWorkClass;
 
-        private Motion motion;
-        private MotorInit motorInit;
-
         public static event Action<int, string> HandleBarValue;
 
         public FrmMain()
@@ -57,17 +53,17 @@ namespace OP010
             processBar.Show();
             HandleBarValue(0, "开始加载程序信息！");
             
-            motion = new Motion();
-            motorInit = new MotorInit(ref motion, HandleBarValue);
+            MotionLoad.MotionLoading(new MotionModule(), HandleBarValue);
+            HandleBarValue(30, "初始化运动控制模块完成！");
 
             InitializeComponent();
-            HandleBarValue(40, "初始化主界面控件完成！");
+            HandleBarValue(50, "初始化主界面控件完成！");
 
             DBInit.InitDB();
-            HandleBarValue(50, "初始化数据库完成！");
+            HandleBarValue(60, "初始化数据库完成！");
 
             InitParam();
-            HandleBarValue(60, "初始化参数完成！");
+            HandleBarValue(70, "初始化参数完成！");
 
             InitConnect();
             HandleBarValue(80, "初始化通信连接完成!");

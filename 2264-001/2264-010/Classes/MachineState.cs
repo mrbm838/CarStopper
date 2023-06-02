@@ -1,5 +1,4 @@
 ﻿using OP010;
-using BYD2181;
 using cowain;
 using Cowain;
 using HslCommunication.Core.Net;
@@ -64,7 +63,7 @@ namespace OP010
                     break;
 
                 case Step.Action:
-                    if (StaticParam.b_Start && myWorkProcess.isIdle())
+                    if (StaticParam.b_Start && myWorkProcess.IsIDLE)
                     {
                         myWorkProcess.Action();
                         m_nStep = (int)Step.GetStop;

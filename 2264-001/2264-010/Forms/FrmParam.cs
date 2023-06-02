@@ -1,4 +1,4 @@
-﻿using BYD2181;
+﻿using DataModel;
 using CommunicationControl;
 using System;
 using System.Collections.Generic;
@@ -19,7 +19,7 @@ namespace OP010
     {
         public Params myParams;
         FrmMonitor frmMonitor;
-        private FrmAxes frmAxes;
+        private FrmMotion frmAxes;
 
         public FrmParam(Params param)
         {
@@ -31,7 +31,7 @@ namespace OP010
         {
             this.propertyGrid1.SelectedObject = myParams;
             frmMonitor = new FrmMonitor();
-            frmAxes = new FrmAxes();
+            frmAxes = new FrmMotion();
         }
 
         private void btn_Save_Click(object sender, EventArgs e)
