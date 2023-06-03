@@ -55,6 +55,10 @@
             this.uiGroupBox2 = new Sunny.UI.UIGroupBox();
             this.TableLayoutPanelInput = new Sunny.UI.UITableLayoutPanel();
             this.tabPage3 = new System.Windows.Forms.TabPage();
+            this.uiGroupBox4 = new Sunny.UI.UIGroupBox();
+            this.uiTableLayoutPanel1 = new Sunny.UI.UITableLayoutPanel();
+            this.uiGroupBox5 = new Sunny.UI.UIGroupBox();
+            this.uiTableLayoutPanel2 = new Sunny.UI.UITableLayoutPanel();
             this.uiGroupBox1.SuspendLayout();
             this.uiTabControlMenu1.SuspendLayout();
             this.tabPage1.SuspendLayout();
@@ -65,6 +69,9 @@
             this.tabPage6.SuspendLayout();
             this.uiGroupBox3.SuspendLayout();
             this.uiGroupBox2.SuspendLayout();
+            this.tabPage3.SuspendLayout();
+            this.uiGroupBox4.SuspendLayout();
+            this.uiGroupBox5.SuspendLayout();
             this.SuspendLayout();
             // 
             // uiCheckBoxGroup1
@@ -444,12 +451,72 @@
             // 
             // tabPage3
             // 
+            this.tabPage3.Controls.Add(this.uiGroupBox4);
+            this.tabPage3.Controls.Add(this.uiGroupBox5);
             this.tabPage3.Location = new System.Drawing.Point(161, 0);
             this.tabPage3.Name = "tabPage3";
             this.tabPage3.Size = new System.Drawing.Size(749, 525);
             this.tabPage3.TabIndex = 2;
             this.tabPage3.Text = "流道";
             this.tabPage3.UseVisualStyleBackColor = true;
+            // 
+            // uiGroupBox4
+            // 
+            this.uiGroupBox4.Controls.Add(this.uiTableLayoutPanel1);
+            this.uiGroupBox4.Font = new System.Drawing.Font("微软雅黑", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
+            this.uiGroupBox4.Location = new System.Drawing.Point(386, 23);
+            this.uiGroupBox4.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
+            this.uiGroupBox4.MinimumSize = new System.Drawing.Size(1, 1);
+            this.uiGroupBox4.Name = "uiGroupBox4";
+            this.uiGroupBox4.Padding = new System.Windows.Forms.Padding(0, 32, 0, 0);
+            this.uiGroupBox4.Size = new System.Drawing.Size(340, 479);
+            this.uiGroupBox4.TabIndex = 11;
+            this.uiGroupBox4.Text = "Output";
+            this.uiGroupBox4.TextAlignment = System.Drawing.ContentAlignment.MiddleCenter;
+            this.uiGroupBox4.ZoomScaleRect = new System.Drawing.Rectangle(0, 0, 0, 0);
+            // 
+            // uiTableLayoutPanel1
+            // 
+            this.uiTableLayoutPanel1.ColumnCount = 2;
+            this.uiTableLayoutPanel1.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 20F));
+            this.uiTableLayoutPanel1.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 80F));
+            this.uiTableLayoutPanel1.Location = new System.Drawing.Point(51, 45);
+            this.uiTableLayoutPanel1.Name = "uiTableLayoutPanel1";
+            this.uiTableLayoutPanel1.RowCount = 2;
+            this.uiTableLayoutPanel1.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 50F));
+            this.uiTableLayoutPanel1.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 50F));
+            this.uiTableLayoutPanel1.Size = new System.Drawing.Size(200, 100);
+            this.uiTableLayoutPanel1.TabIndex = 0;
+            this.uiTableLayoutPanel1.TagString = null;
+            // 
+            // uiGroupBox5
+            // 
+            this.uiGroupBox5.Controls.Add(this.uiTableLayoutPanel2);
+            this.uiGroupBox5.Font = new System.Drawing.Font("微软雅黑", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
+            this.uiGroupBox5.Location = new System.Drawing.Point(22, 23);
+            this.uiGroupBox5.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
+            this.uiGroupBox5.MinimumSize = new System.Drawing.Size(1, 1);
+            this.uiGroupBox5.Name = "uiGroupBox5";
+            this.uiGroupBox5.Padding = new System.Windows.Forms.Padding(0, 32, 0, 0);
+            this.uiGroupBox5.Size = new System.Drawing.Size(340, 479);
+            this.uiGroupBox5.TabIndex = 10;
+            this.uiGroupBox5.Text = "Input";
+            this.uiGroupBox5.TextAlignment = System.Drawing.ContentAlignment.MiddleCenter;
+            this.uiGroupBox5.ZoomScaleRect = new System.Drawing.Rectangle(0, 0, 0, 0);
+            // 
+            // uiTableLayoutPanel2
+            // 
+            this.uiTableLayoutPanel2.ColumnCount = 2;
+            this.uiTableLayoutPanel2.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 20F));
+            this.uiTableLayoutPanel2.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 80F));
+            this.uiTableLayoutPanel2.Location = new System.Drawing.Point(13, 35);
+            this.uiTableLayoutPanel2.Name = "uiTableLayoutPanel2";
+            this.uiTableLayoutPanel2.RowCount = 2;
+            this.uiTableLayoutPanel2.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 50F));
+            this.uiTableLayoutPanel2.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 50F));
+            this.uiTableLayoutPanel2.Size = new System.Drawing.Size(108, 422);
+            this.uiTableLayoutPanel2.TabIndex = 0;
+            this.uiTableLayoutPanel2.TagString = null;
             // 
             // FrmMotion
             // 
@@ -469,6 +536,9 @@
             this.tabPage6.ResumeLayout(false);
             this.uiGroupBox3.ResumeLayout(false);
             this.uiGroupBox2.ResumeLayout(false);
+            this.tabPage3.ResumeLayout(false);
+            this.uiGroupBox4.ResumeLayout(false);
+            this.uiGroupBox5.ResumeLayout(false);
             this.ResumeLayout(false);
 
         }
@@ -500,5 +570,9 @@
         private Sunny.UI.UIGroupBox uiGroupBox3;
         private Sunny.UI.UITableLayoutPanel uiTableLayoutPanelOutput;
         private Sunny.UI.UITableLayoutPanel TableLayoutPanelInput;
+        private Sunny.UI.UIGroupBox uiGroupBox4;
+        private Sunny.UI.UITableLayoutPanel uiTableLayoutPanel1;
+        private Sunny.UI.UIGroupBox uiGroupBox5;
+        private Sunny.UI.UITableLayoutPanel uiTableLayoutPanel2;
     }
 }

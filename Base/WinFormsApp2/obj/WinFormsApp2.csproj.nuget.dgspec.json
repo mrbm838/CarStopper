@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\ProgramTest\\WinFormsApp2\\WinFormsApp2\\WinFormsApp2.csproj": {}
+    "E:\\2264\\上位机程序\\Base\\WinFormsApp2\\WinFormsApp2.csproj": {}
   },
   "projects": {
-    "E:\\ProgramTest\\WinFormsApp2\\WinFormsApp2\\WinFormsApp2.csproj": {
+    "E:\\2264\\上位机程序\\Base\\WinFormsApp2\\WinFormsApp2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\ProgramTest\\WinFormsApp2\\WinFormsApp2\\WinFormsApp2.csproj",
+        "projectUniqueName": "E:\\2264\\上位机程序\\Base\\WinFormsApp2\\WinFormsApp2.csproj",
         "projectName": "WinFormsApp2",
-        "projectPath": "E:\\ProgramTest\\WinFormsApp2\\WinFormsApp2\\WinFormsApp2.csproj",
+        "projectPath": "E:\\2264\\上位机程序\\Base\\WinFormsApp2\\WinFormsApp2.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "E:\\ProgramTest\\WinFormsApp2\\WinFormsApp2\\obj\\",
+        "outputPath": "E:\\2264\\上位机程序\\Base\\WinFormsApp2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -45,6 +45,12 @@
       "frameworks": {
         "net7.0-windows7.0": {
           "targetAlias": "net7.0-windows",
+          "dependencies": {
+            "SunnyUI": {
+              "target": "Package",
+              "version": "[3.3.7.1, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

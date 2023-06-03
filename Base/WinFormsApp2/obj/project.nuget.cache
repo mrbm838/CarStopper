@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "JfmCAim51R5CtgOEztiUkuKm1sSDDqHRJj/8EEbERYtk5E6XKbmEjfvhnPw/gSIgqIXQ9yooAsC/5zIdLEsxEg==",
+  "dgSpecHash": "BiNWChd4osDkGIyo3QBRWAeR8rwyJozXmqFB+Vx3gZyvN57zYOKWwHNhHVGrNSFTknwi9TIIWkQ8Cm0qihEhmg==",
   "success": true,
-  "projectFilePath": "E:\\ProgramTest\\WinFormsApp2\\WinFormsApp2\\WinFormsApp2.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "E:\\2264\\上位机程序\\Base\\WinFormsApp2\\WinFormsApp2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\sunnyui\\3.3.7.1\\sunnyui.3.3.7.1.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\sunnyui.common\\3.3.2\\sunnyui.common.3.3.2.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -1,11 +1,75 @@
 {
   "version": 3,
   "targets": {
-    "net7.0-windows7.0": {}
+    "net7.0-windows7.0": {
+      "SunnyUI/3.3.7.1": {
+        "type": "package",
+        "dependencies": {
+          "SunnyUI.Common": "3.3.2"
+        },
+        "compile": {
+          "lib/net7.0-windows7.0/SunnyUI.dll": {}
+        },
+        "runtime": {
+          "lib/net7.0-windows7.0/SunnyUI.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.WindowsDesktop.App.WindowsForms"
+        ]
+      },
+      "SunnyUI.Common/3.3.2": {
+        "type": "package",
+        "compile": {
+          "lib/net7.0/SunnyUI.Common.dll": {}
+        },
+        "runtime": {
+          "lib/net7.0/SunnyUI.Common.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "SunnyUI/3.3.7.1": {
+      "sha512": "i+vRTs83z3yyP9YBmCkh3mvcAwAfvTSmruw/dTHLpmIeJv3DOVt78H4Wxe374IC0We9Tmc2XjYVk37xkz54CDw==",
+      "type": "package",
+      "path": "sunnyui/3.3.7.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE",
+        "README.md",
+        "SunnyUI.png",
+        "lib/net40/SunnyUI.dll",
+        "lib/net472/SunnyUI.dll",
+        "lib/net6.0-windows7.0/SunnyUI.dll",
+        "lib/net7.0-windows7.0/SunnyUI.dll",
+        "sunnyui.3.3.7.1.nupkg.sha512",
+        "sunnyui.nuspec"
+      ]
+    },
+    "SunnyUI.Common/3.3.2": {
+      "sha512": "ZEtwPos6Jul3U2GVWkJuaZR8G18eARqbAC+bduakyydHSKcwUqeOKIQaNuZ39c6r83BQjsNIF/i94Zkc2cqKWg==",
+      "type": "package",
+      "path": "sunnyui.common/3.3.2",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "README.md",
+        "SunnyUI.png",
+        "lib/net40/SunnyUI.Common.dll",
+        "lib/net472/SunnyUI.Common.dll",
+        "lib/net6.0/SunnyUI.Common.dll",
+        "lib/net7.0/SunnyUI.Common.dll",
+        "lib/netstandard2.0/SunnyUI.Common.dll",
+        "sunnyui.common.3.3.2.nupkg.sha512",
+        "sunnyui.common.nuspec"
+      ]
+    }
+  },
   "projectFileDependencyGroups": {
-    "net7.0-windows7.0": []
+    "net7.0-windows7.0": [
+      "SunnyUI >= 3.3.7.1"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\Administrator\\.nuget\\packages\\": {},
@@ -14,11 +78,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\ProgramTest\\WinFormsApp2\\WinFormsApp2\\WinFormsApp2.csproj",
+      "projectUniqueName": "E:\\2264\\上位机程序\\Base\\WinFormsApp2\\WinFormsApp2.csproj",
       "projectName": "WinFormsApp2",
-      "projectPath": "E:\\ProgramTest\\WinFormsApp2\\WinFormsApp2\\WinFormsApp2.csproj",
+      "projectPath": "E:\\2264\\上位机程序\\Base\\WinFormsApp2\\WinFormsApp2.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "E:\\ProgramTest\\WinFormsApp2\\WinFormsApp2\\obj\\",
+      "outputPath": "E:\\2264\\上位机程序\\Base\\WinFormsApp2\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -52,6 +116,12 @@
     "frameworks": {
       "net7.0-windows7.0": {
         "targetAlias": "net7.0-windows",
+        "dependencies": {
+          "SunnyUI": {
+            "target": "Package",
+            "version": "[3.3.7.1, )"
+          }
+        },
         "imports": [
           "net461",
           "net462",
