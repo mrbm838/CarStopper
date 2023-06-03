@@ -16,6 +16,7 @@ namespace OP010.Forms
 {
     //速度保存
     //登录
+    //IO分组
 
     public partial class FrmMotion : UIForm
     {
@@ -102,10 +103,13 @@ namespace OP010.Forms
             TableLayoutPanelInput.Width = layoutWidth;
 
             arrayControlRunnerInput = new Control[StaticParam.R_InputArray.Length * 2];
-            for (int i = 0; i < 30; i += 2)
+
+
+            var r = StaticParam.R_InputArray[0];
+            for (int i = 0; i < StaticParam.R_InputArray.Length; i++)
             {
                 DrvIO.tyIO_Parameter parameter = new DrvIO.tyIO_Parameter();
-                StaticParam.R_OutputArray[i].GetParameter(ref parameter);
+                StaticParam.R_InputArray[i].GetParameter(ref parameter);
                 arrayControlRunnerInput[i] = new UILedBulb
                 {
                     Color = Color.DarkGray
@@ -137,7 +141,7 @@ namespace OP010.Forms
             TableLayoutPanelRunnerOutput.Width = layoutWidth;
 
             var arrayRunnerOutput = new Control[StaticParam.R_OutputArray.Length * 2];
-            for (int i = 0; i < 30; i += 2)
+            for (int i = 0; i < StaticParam.R_OutputArray.Length; i++)
             {
                 DrvIO.tyIO_Parameter param = new DrvIO.tyIO_Parameter(); 
                 StaticParam.R_OutputArray[i].GetParameter(ref param);

@@ -19,6 +19,7 @@ namespace OP010.Motion
         public MotionModule()
         {
             m_strMachinePath = Environment.CurrentDirectory + "\\Machine.mdb";
+            clsMachinePoint.Path = m_strMachinePath;
             clsMotors clsMotor = new clsMotors(this, 0, m_strMachinePath, "", 2000);
             AddBase(ref clsMotor.m_NowAddress);
             clsCylinders clsCylinder = new clsCylinders(this, 0, m_strMachinePath, "", 2000);

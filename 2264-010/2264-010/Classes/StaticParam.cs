@@ -171,7 +171,7 @@ namespace OP010
         /// <summary>
         /// 各点位数组
         /// </summary>
-        public static Sys_Define.tyAXIS_XYZRA[] Points = new Sys_Define.tyAXIS_XYZRA[(int)EnumPosition.MaxCount];
+        public static Sys_Define.tyAXIS_XYZRA[] Points = new Sys_Define.tyAXIS_XYZRA[Enum.GetNames(typeof(EnumPosition)).Length];
 
         #endregion
 

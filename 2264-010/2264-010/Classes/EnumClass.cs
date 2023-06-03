@@ -92,7 +92,6 @@ namespace OP010
     public enum EnumPosition
     {
         待命位 = 0,
-        收料位,
-        MaxCount
+        收料位
     }
 }

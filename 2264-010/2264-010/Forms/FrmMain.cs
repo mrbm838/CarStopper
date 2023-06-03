@@ -208,10 +208,10 @@ namespace OP010
 
         private void timer1_Tick(object sender, EventArgs e)
         {
-            if (Program.currentAccount != null)
+            //if (Program.currentAccount != null)
             {
-                this.lbl_user.Text = Program.currentAccount.User;
-                switch (Program.currentAccount.User)
+                this.lbl_user.Text = "Admin";//Program.currentAccount.User = 
+                switch (lbl_user.Text)//Program.currentAccount.User
                 {
                     case "Engineer":
                         this.tsb_Setting.Enabled = true;
@@ -224,13 +224,13 @@ namespace OP010
                         break;
                 }
             }
-            else
-            {
-                this.lbl_user.Text = "未登录";
-                this.tsb_Setting.Enabled = false;
-                this.tsb_MES.Enabled = false;
-                this.tsb_Rewrite.Enabled = false;
-            }
+            //else
+            //{
+            //    this.lbl_user.Text = "未登录";
+            //    this.tsb_Setting.Enabled = false;
+            //    this.tsb_MES.Enabled = false;
+            //    this.tsb_Rewrite.Enabled = false;
+            //}
         }
 
 
